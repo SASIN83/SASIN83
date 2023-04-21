@@ -1,6 +1,6 @@
 [![MasterHead](https://www.eventsmhssp.in/wp-content/uploads/2021/04/Python-banner.png)](https://www.linkedin.com/in/sasin-nisar-ai/)
 <h1 align="center">Hi 👋, I'm Sasin Nisar</h1>
-<h3 align="center">A Passionate Python Developer</h3>
+<h3 align="center">A Passionate Python Developer and Anime Lover</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasin83&label=Profile%20views&color=0e75b6&style=flat" alt="sasin83" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasin83" alt="sasin83" /></a> </p>
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/sasin-nisar-ai](www.linkedin.com/in/sasin-nisar-ai)
 
-- ⚡ Fun fact **I help you learn whatever you want to**
+- ⚡ Fun fact **I help you find resources to learn anything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

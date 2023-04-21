@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/toyako_bokuto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toyako_bokuto" height="30" width="40" /></a>
+<a href="https://twitter.com/sasin_nisar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sasin_nisar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sasin nisar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasin nisar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sasin nisar83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sasin nisar83" height="30" width="40" /></a>
 <a href="https://instagram.com/toyako_bokuto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toyako_bokuto" height="30" width="40" /></a>
